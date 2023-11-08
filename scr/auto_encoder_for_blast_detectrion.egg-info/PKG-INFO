@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: auto-encoder-for-blast-detectrion
+Version: 1.6
+Summary: Training autoencoders for single cell blast detection
+Author: Alice Driessen
+Author-email: adr@zurich.ibm.com
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# auto_encoder_for_blast_detection
+Auto encoder structure for single cell blast detection in Acute Myeloid Leukemia
